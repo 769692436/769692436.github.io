@@ -4,7 +4,8 @@
 		"name": "Project 1",
 		"image": "placeholder.jpg",
 		"date": "Oct 2017",
-		"tags": ["HTML","CSS"]
+		"tags": ["HTML","CSS"],
+		"url":	"#"
 	}
 
 ]
